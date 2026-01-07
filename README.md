@@ -11,7 +11,7 @@ This repository contains workshops and labs completed as part of the **FreeCodeC
 ## Completed Work
 
 ### Workshops
-- Build a Hotel Feedback Form
+- Build a Hotel Feedback Form (1/07/2026)
 - Build a Finals Exams Table
 
 ### Labs
