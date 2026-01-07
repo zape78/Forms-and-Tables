@@ -3,10 +3,10 @@
 This repository contains workshops and labs completed as part of the **FreeCodeCamp Responsive Web Design Certification**, with a focus on building structured forms, tabular data, and accessible user inputs.
 
 ## Purpose
-- Practice proper form structure and input types
-- Reinforce label, fieldset, and legend usage
-- Build accessible, user-friendly forms
-- Create and structure tables for meaningful data display
+- Practice proper HTML form structure and input types
+- Use labels, fieldsets, and legends appropriately
+- Apply accessibility considerations to form elements
+- Structure tabular data using semantic table elements
 
 ## Completed Work
 
