@@ -11,14 +11,23 @@
     </header>
     <main>
         <form action="https://hotel-feedback.freecodecamp.org" method="POST">
-            <fieldset>
+            <f>
                 <legend>Personal Information</legend>
                 <label for="full-name">Name (required):</label>
-                <input type="text" id="full-name" name="name" placeholder="e.g., John Doe">
+                <input type="text" id="full-name" name="name" placeholder="e.g., John Doe" size="20" required>
                 <label for="email">Email address (required):</label>
                 
                 </input>
+                <input type="email" id="email" name="email" placeholder="example@email.com" size="20" required>
+                <label for="age">Age (optional):</label>
+                <input type="number" id="age" name="age" min="3" max="100">
+                
+                </input>
             </fieldset>
+            <fieldset>
+                <legend>Was this your first time at our hotel?</legend>
+            </fieldset>
+            
         </form>
     </main>
 
