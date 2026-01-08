@@ -15,7 +15,7 @@ This repository contains workshops and labs completed as part of the **FreeCodeC
 - Build a Finals Exams Table (1/07/2026)
 
 ### Labs
-- Build a Book Catalog Table
+- Build a Book Catalog Table (1/07/2026)
 
 ## Notes
 - Emphasis on accessibility and clarity over visual styling
