@@ -12,7 +12,7 @@ This repository contains workshops and labs completed as part of the **FreeCodeC
 
 ### Workshops
 - Build a Hotel Feedback Form (1/07/2026)
-- Build a Finals Exams Table
+- Build a Finals Exams Table (1/07/2026)
 
 ### Labs
 - Build a Book Catalog Table
